@@ -1,0 +1,26 @@
+body{
+  background-color: dodgerblue;
+
+ }
+
+ p{
+    color:	#DCDCDC; 
+    font-size: 2em;
+  
+  }
+  h1,h2{
+      text-align: center;
+  
+  }
+  figure{
+      text-align: center;
+  }
+  .cotainer{
+      width:70%;
+      margin: auto;
+  }
+  
+  .img_corpo{
+  
+      width: 55%;
+  }
